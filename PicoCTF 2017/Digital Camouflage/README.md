@@ -3,7 +3,7 @@
 > We need to gain access to some routers. Let's try and see if we can find the password in the captured network data: [data.pcap.](https://github.com/AhmedMoFawzy/Forensics-Challenges/blob/main/PicoCTF%202017/Digital%20Camouflage/data.pcap)
 
 
-details>
+<details>
   <summary>Click me</summary>
   
   
